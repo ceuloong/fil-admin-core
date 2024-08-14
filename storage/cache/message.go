@@ -2,7 +2,7 @@ package cache
 
 import (
 	"github.com/ceuloong/fil-admin-core/storage"
-	"github.com/go-admin-team/redisqueue/v2"
+	"github.com/ceuloong/redisqueue/v2"
 )
 
 type Message struct {

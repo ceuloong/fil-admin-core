@@ -2,11 +2,12 @@ package queue
 
 import (
 	"fmt"
-	"github.com/go-admin-team/redisqueue/v2"
 	"log"
 	"sync"
 	"testing"
 	"time"
+
+	"github.com/ceuloong/redisqueue/v2"
 
 	"github.com/ceuloong/fil-admin-core/storage"
 )

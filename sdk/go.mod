@@ -7,7 +7,7 @@ require (
 	github.com/bytedance/go-tagexpr/v2 v2.9.11
 	github.com/casbin/casbin/v2 v2.77.2
 	github.com/casbin/gorm-adapter/v3 v3.26.0
-	github.com/ceuloong/fil-admin-core v1.0.0-0.20240716170710
+	github.com/ceuloong/fil-admin-core v1.5.2
 	github.com/ceuloong/fil-admin-core/plugins/logger/zap v0.0.0-20240717033432-1a7fbc6b555c
 	github.com/ceuloong/redis-watcher/v2 v2.0.0-20240814055255-3dd1e3d713cd
 	github.com/ceuloong/redisqueue/v2 v2.1.0
@@ -21,7 +21,7 @@ require (
 	github.com/gorilla/websocket v1.5.0
 	github.com/mojocn/base64Captcha v1.3.6
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/redis/go-redis/v9 v9.3.1
+	github.com/redis/go-redis/v9 v9.6.1
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shamsher31/goimgext v1.0.0
 	github.com/slok/go-http-metrics v0.11.0
@@ -61,8 +61,6 @@ require (
 	github.com/git-chglog/git-chglog v0.15.4 // indirect
 	github.com/glebarez/go-sqlite v1.20.3 // indirect
 	github.com/glebarez/sqlite v1.7.0 // indirect
-	github.com/go-admin-team/redisqueue/v2 v2.0.0 // indirect
-	github.com/go-redis/redis/v9 v9.0.0-rc.1 // indirect
 	github.com/go-sql-driver/mysql v1.7.0 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
